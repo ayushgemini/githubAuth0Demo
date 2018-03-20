@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="com_auth0_client_id">OeKHfUMR1C9cujQhlJTBL0dPB4ImBnwd</string>
+    <string name="com_auth0_domain">ayushgemini.auth0.com</string>
+    <string name="retry">Please retry</string>
+    <string name="action_search">search here</string>
+    <string name="search_hint">Type user name</string>
+    <string name="toolbar_title">Search</string>
+    <string name="app_storage_file">app_storage_file</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_content">Demo APP</string>
+</resources>
